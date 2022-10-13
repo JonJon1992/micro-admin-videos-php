@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Usecase\DTO;
+namespace Core\Usecase\DTO\Category;
 
 class CategoryOutputDto
 {
